@@ -1,0 +1,18 @@
+[submodule "pack/themes/opt/gruvbox"]
+	path = pack/themes/opt/gruvbox
+	url = https://github.com/morhetz/gruvbox.git
+[submodule "pack/themes/opt/vim-colors-solarized"]
+	path = pack/themes/opt/vim-colors-solarized
+	url = https://github.com/altercation/vim-colors-solarized.git
+[submodule "pack/plugins/start/nerdcommenter"]
+	path = pack/plugins/start/nerdcommenter
+	url = https://github.com/preservim/nerdcommenter.git
+[submodule "pack/plugins/start/lightline"]
+	path = pack/plugins/start/lightline
+	url = https://github.com/itchyny/lightline.vim
+[submodule "pack/plugins/start/nerdtree"]
+	path = pack/plugins/start/nerdtree
+	url = https://github.com/preservim/nerdtree.git
+[submodule "pack/plugins/start/vim-dirdiff"]
+	path = pack/plugins/start/vim-dirdiff
+	url = https://github.com/will133/vim-dirdiff
