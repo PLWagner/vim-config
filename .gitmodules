@@ -16,3 +16,6 @@
 [submodule "pack/plugins/start/vim-dirdiff"]
 	path = pack/plugins/start/vim-dirdiff
 	url = https://github.com/will133/vim-dirdiff
+[submodule "pack/plugins/start/vim-indent-guides"]
+	path = pack/plugins/start/vim-indent-guides
+	url = https://github.com/preservim/vim-indent-guides.git
