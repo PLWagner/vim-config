@@ -49,3 +49,5 @@ set laststatus=2
 set diffopt+=iwhiteall
 
 set bs=2 " Allow backspacing over everything in insert mode
+
+let g:indent_guides_enable_on_vim_startup = 1
